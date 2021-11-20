@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html 
+<html>
 <head>
     <meta charset="UTF-8">
    <title>  MUSAYEV'S Personal WebSiteSite</title>
@@ -62,7 +62,7 @@
           <td>superman</td>
           <td> table try 2</td>
         </tr>
-     </tr>
+     
      <hr size="4" noshade>
       </table>
       <p><h3>skills</h3></p>
